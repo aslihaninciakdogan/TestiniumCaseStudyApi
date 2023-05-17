@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3ade8f5-47fd-4227-a4f3-8b32350f9201" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testinium/api/trello/base/BaseFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testinium/api/trello/base/BaseScenario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testinium/api/trello/functions/CaseStudyFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testinium/api/trello/scenarios/CaseStudyScenario.java" afterDir="false" />
+    <list default="true" id="f3ade8f5-47fd-4227-a4f3-8b32350f9201" name="Changes" comment="Api testi geliştirmeleri yapıldı.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/testinium/api/trello/functions/CaseStudyFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testinium/api/trello/functions/CaseStudyFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/testinium/api/trello/scenarios/CaseStudyScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testinium/api/trello/scenarios/CaseStudyScenario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +83,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684345215588</updated>
     </task>
+    <task id="LOCAL-00001" summary="Api testi geliştirmeleri yapıldı.">
+      <created>1684356816701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684356816701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Api testi geliştirmeleri yapıldı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Api testi geliştirmeleri yapıldı." />
   </component>
 </project>

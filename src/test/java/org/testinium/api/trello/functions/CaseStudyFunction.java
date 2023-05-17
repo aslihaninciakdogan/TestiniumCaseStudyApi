@@ -27,10 +27,22 @@ public class CaseStudyFunction extends BaseFunction {
     }
 
     public CaseStudyFunction createCardWithBoardName(String boardName, String cardName){
+        // Verilen Board ismine göre board'u bulup, içerisideki list'e card oluşturulacaktır.
         return this;
     }
 
-    public CaseStudyFunction updateCardName(String currentCardName,String newCardName){
+    public CaseStudyFunction updateCardName(String name){
+        // Card'lar içerisinden random olarak biri seçilecek ve ismi parametre olarak verilen isimle güncellenecektir.
+        return this;
+    }
+
+    public CaseStudyFunction deleteCardsOnBoard(String boardName){
+        // Parametre olarak verilen Board'a ait tüm kartlar silinecektir.
+        return this;
+    }
+
+    public CaseStudyFunction deleteBoardByName(String name){
+        // Parametre olarak ismi verilen Board bulunup silinecektir.
         return this;
     }
 }

@@ -17,7 +17,12 @@ public class CaseStudyScenario extends BaseScenario {
     @Test
     public void test(){
         caseStudyFunction
-                .createBoard("Testinium");
+                .createBoard("Testinium")
+                .createCardWithBoardName("Testinium","Cases")
+                .createCardWithBoardName("Testinium","Scenarios")
+                .updateCardName("Tests")
+                .deleteCardsOnBoard("Testinium")
+                .deleteBoardByName("Testinium");
     }
 
     @After
